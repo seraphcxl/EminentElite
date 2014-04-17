@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		89D25AFB18FF9F54004C17DA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 89D25AF918FF9F54004C17DA /* LICENSE */; };
-		89D25AFC18FF9F54004C17DA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 89D25AFA18FF9F54004C17DA /* README.md */; };
+		89D25B0318FFA16B004C17DA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 89D25B0118FFA16B004C17DA /* LICENSE */; };
+		89D25B0418FFA16B004C17DA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 89D25B0218FFA16B004C17DA /* README.md */; };
 		8D0E00451820E1E80061CFC0 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D0E00441820E1E70061CFC0 /* Cocoa.framework */; };
 		8D0E004F1820E1E80061CFC0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D0E004D1820E1E80061CFC0 /* InfoPlist.strings */; };
 		8D0E00531820E1E80061CFC0 /* EminentElite_Mac.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D0E00521820E1E80061CFC0 /* EminentElite_Mac.m */; };
@@ -416,8 +416,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		89D25AF918FF9F54004C17DA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		89D25AFA18FF9F54004C17DA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		89D25B0118FFA16B004C17DA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		89D25B0218FFA16B004C17DA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		8D0E00411820E1E70061CFC0 /* EminentElite_Mac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EminentElite_Mac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D0E00441820E1E70061CFC0 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		8D0E00471820E1E80061CFC0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -709,8 +709,8 @@
 		8D0E00371820E1E70061CFC0 = {
 			isa = PBXGroup;
 			children = (
-				89D25AF918FF9F54004C17DA /* LICENSE */,
-				89D25AFA18FF9F54004C17DA /* README.md */,
+				89D25B0118FFA16B004C17DA /* LICENSE */,
+				89D25B0218FFA16B004C17DA /* README.md */,
 				8D0E02F81820E6530061CFC0 /* ExternalSources */,
 				8D0E03841820E6530061CFC0 /* ImageBaseClasses */,
 				8D0E039D1820E6530061CFC0 /* ImageLoading */,
@@ -1321,8 +1321,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89D25AFC18FF9F54004C17DA /* README.md in Resources */,
-				89D25AFB18FF9F54004C17DA /* LICENSE in Resources */,
+				89D25B0418FFA16B004C17DA /* README.md in Resources */,
+				89D25B0318FFA16B004C17DA /* LICENSE in Resources */,
 				8D0E004F1820E1E80061CFC0 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
