@@ -1,4 +1,4 @@
 EminentElite
 ============
 
-A Mac photo editor framework from Xee.
+A Mac OS X photo editor framework from Xee.
